@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://whugimy.github.io/al-folio/sitemap.xml
+Sitemap: https://whugimy.github.io/sitemap.xml
