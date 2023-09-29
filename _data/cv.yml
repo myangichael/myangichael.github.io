@@ -24,17 +24,17 @@
       institution: Principal Financial Group
       year: June 2023 - September 2023
       description:
-        -	Led the design and implementation of a full-stack process that modernized how Principal generates large statistical reports on its owned investments, saving >100 hours per usage
-        -	Built frontend with Next.js, backend with AWS Lambda, SQS, additional REST API built with Java Spring
-        -	Designed efficient event-driven architecture with parallel processing that was 3x faster than original
-        -	Deployed app to production for business client use in following quarter
-        -	Additional experience building survey distribution and collection services with ServiceNow
-        -	Core Skills":" React, Typescript, AWS, Java, Full Stack Development
+        - Led the design and implementation of a full-stack process that modernized how Principal generates large statistical reports on its owned investments, saving >100 hours per usage
+        - Built frontend with Next.js, backend with AWS Lambda, SQS, additional REST API built with Java Spring
+        - Designed efficient event-driven architecture with parallel processing that was 3x faster than original
+        - Deployed app to production for business client use in following quarter
+        - Additional experience building survey distribution and collection services with ServiceNow
+        - Core Skills":" React, Typescript, AWS, Java, Full Stack Development
     - title: Undergraduate Research Assistant
       institution: UCSB Systems and Networking Lab
       year: September 2022 - June 2022
       description:
-        -	Explainable AI Research in networking":" trained, evaluated neural networks for network intrusion detection with PyTorch
-        -	Extracted model logic with novel framework that trains surrogate, easily readable decision trees on neural networks
-        -	Demonstrated that several highly cited modern network datasets, especially synthetic ones, have subtle but exploitable shortcut features resulting in poor performance on out-of-sample data
-        -	Core Skills":" Python, PyTorch, Machine/Deep Learning, Data Visualization
+        - Explainable AI Research in networking":" trained, evaluated neural networks for network intrusion detection with PyTorch
+        - Extracted model logic with novel framework that trains surrogate, easily readable decision trees on neural networks
+        - Demonstrated that several highly cited modern network datasets, especially synthetic ones, have subtle but exploitable shortcut features resulting in poor performance on out-of-sample data
+        - Core Skills":" Python, PyTorch, Machine/Deep Learning, Data Visualization
