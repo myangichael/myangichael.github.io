@@ -21,7 +21,7 @@
   type: time_table
   contents:
     - title: Software Engineer Intern
-      institution: Institute for Advanced Study, Princeton University
+      institution: Principal Financial Group
       year: June 2023 - September 2023
       description:
         -	Led the design and implementation of a full-stack process that modernized how Principal generates large statistical reports on its owned investments, saving >100 hours per usage
