@@ -2,96 +2,39 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Michael Yang
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
+    - title: B.S. Computer Science, B.S. Data Science & Statistics
+      institution: University of California, Santa Barbara
       year: 1905
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - 3.8/4.0 GPA
+        - UC Regents Scholar (top 1% of admitted class)
+        - UC College of Engineering Honors
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
+    - title: Software Engineer Intern
       institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+      year: June 2023 - September 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        -	Led the design and implementation of a full-stack process that modernized how Principal generates large statistical reports on its owned investments, saving >100 hours per usage
+        -	Built frontend with Next.js, backend with AWS Lambda, SQS, additional REST API built with Java Spring
+        -	Designed efficient event-driven architecture with parallel processing that was 3x faster than original
+        -	Deployed app to production for business client use in following quarter
+        -	Additional experience building survey distribution and collection services with ServiceNow
+        -	Core Skills: React, Typescript, AWS, Java, Full Stack Development
+    - title: Undergraduate Research Assistant
+      institution: UCSB Systems and Networking Lab
+      year: September 2022 - June 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        -	Explainable AI Research in networking: trained, evaluated neural networks for network intrusion detection with PyTorch
+        -	Extracted model logic with novel framework that trains surrogate, easily readable decision trees on neural networks
+        -	Demonstrated that several highly cited modern network datasets, especially synthetic ones, have subtle but exploitable shortcut features resulting in poor performance on out-of-sample data
+        -	Core Skills: Python, PyTorch, Machine/Deep Learning, Data Visualization
