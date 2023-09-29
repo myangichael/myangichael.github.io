@@ -12,7 +12,7 @@ importance: 1
     </div>
 </div>
 
-I built this project alongside Vidit Agrawal and Kevin Tran as part of CMPSC 190I, a course on Virtual Reality. You can check out the project on GitHub [here](https://github.com/320trankt/VRchery) (although you'll need to open it in Unity to look at it in detail), or view the demo and presentation [here](https://docs.google.com/presentation/d/1nARqSpOlcpT2YiCXVa6TsuGfkKqxy836Dn2cmUqoko4/edit?usp=sharing). 
+I built this project alongside Vidit Agrawal and Kevin Tran as part of CMPSC 190I, a course on Virtual Reality. You can check out the project on GitHub [here](https://github.com/320trankt/VRchery) (although you'll need to open it in Unity to look at it in detail), or view the demo and presentation [here](https://docs.google.com/presentation/d/1JWvqR2X3e6UCbpImcjTUH9FcJ9UmlIy3Uhb7y37QVRY/edit?usp=drive_link). If you just want to see the demo you can view it [here](https://drive.google.com/file/d/11qNqonF8CI2HZZyUSIWC20jC2E5Zi8zQ/view?usp=drive_link).
 
 The project contains several core components, all assets loaded in Unity and all scripting done with C#.
 

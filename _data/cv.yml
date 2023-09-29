@@ -29,12 +29,12 @@
         -	Designed efficient event-driven architecture with parallel processing that was 3x faster than original
         -	Deployed app to production for business client use in following quarter
         -	Additional experience building survey distribution and collection services with ServiceNow
-        -	Core Skills: React, Typescript, AWS, Java, Full Stack Development
+        -	Core Skills":" React, Typescript, AWS, Java, Full Stack Development
     - title: Undergraduate Research Assistant
       institution: UCSB Systems and Networking Lab
       year: September 2022 - June 2022
       description:
-        -	Explainable AI Research in networking: trained, evaluated neural networks for network intrusion detection with PyTorch
+        -	Explainable AI Research in networking":" trained, evaluated neural networks for network intrusion detection with PyTorch
         -	Extracted model logic with novel framework that trains surrogate, easily readable decision trees on neural networks
         -	Demonstrated that several highly cited modern network datasets, especially synthetic ones, have subtle but exploitable shortcut features resulting in poor performance on out-of-sample data
-        -	Core Skills: Python, PyTorch, Machine/Deep Learning, Data Visualization
+        -	Core Skills":" Python, PyTorch, Machine/Deep Learning, Data Visualization
