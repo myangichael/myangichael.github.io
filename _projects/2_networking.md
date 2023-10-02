@@ -3,7 +3,7 @@ layout: page
 title: ERSP Research
 description: detailing my Early Research Scholars Program work
 img: assets/img/projects/vrchery/vrchery_prof.png
-importance: 1
+importance: 2
 ---
 
 I undertook a year-long (academic year) research project alongside Abel Atnafu, Luis Bravo, Aditi Phatak, and Emily Hu as part of the UCSB Early Research Scholars Program (ERSP). This research was a partnership with the UCSB Systems and Networking Lab, headed by Professor Arpit Gupta. Our research mentor was Roman Beltiukov. 
