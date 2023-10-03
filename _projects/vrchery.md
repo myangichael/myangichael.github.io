@@ -3,7 +3,7 @@ layout: page
 title: VRchery
 description: a fully immersive virtual reality archery sim built in Unity
 img: assets/img/projects/vrchery/vrchery_prof.jpeg
-importance: 2
+importance: 3
 ---
 
 <div class="row">
