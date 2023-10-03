@@ -2,13 +2,13 @@
 layout: page
 title: VRchery
 description: a fully immersive virtual reality archery sim built in Unity
-img: assets/img/projects/vrchery/vrchery_prof.png
-importance: 3
+img: assets/img/projects/vrchery/vrchery_prof.jpeg
+importance: 2
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/vrchery/vrchery_prof.png" title="sample screenshot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/vrchery/vrchery_prof.jpeg" title="sample screenshot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
