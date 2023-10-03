@@ -15,10 +15,23 @@
         "network": "LinkedIn",
         "username": "michaelyangcs24",
         "url": "linkedin.com/in/michaelyangcs24"
+      },
+      {
+        "network": "GitHub",
+        "username": "whugimy",
+        "url": "github.com/whugimy"
       }
     ]
   },
   "work": [
+    {
+      "name": "Sung Soo Kim Lab",
+      "position": "Researcher",
+      "url": "",
+      "startDate": "2023-06",
+      "endDate": "present",
+      "summary": "Researching and developing modern Generative Adversarial Network and Diffusion architectures to artificially convert RGB images to UV"
+    },
     {
       "name": "Principal Financial Group",
       "position": "Software Engineering Intern",
