@@ -18,9 +18,9 @@ All of my technical work was done in Python, with heavy usage of `pandas` and `P
 
 You can view our final research poster in greater resolution [here](https://docs.google.com/presentation/d/1V1tX5XgU97CPWW8AC1FKUjQi0PnCE7a0baB7sWcHmwM/edit?usp=sharing). I recently got a new laptop and no longer have access to the server on which much of my code is stored. Once I go home and open that laptop, I will transfer more code over. 
 
-# A quick summary with TLDRs throughout:
+## My Work (There are TLDRs throughout)
 
-## Context:
+### Context:
 
 The networking space stands to benefit greatly from advances in machine learning and artificial intelligence. Network providers/operators receive and send tons of network data regularly, all of which needs to be safe. Naturally, you might think that AI could be applied as a way to classify network packets as safe or unsafe.
 
@@ -43,7 +43,7 @@ This example seems fairly obvious to deal with in experimental setup, but simila
 #### TLDR
 Networking tasks are good opportunity to apply ML (lots of data, high frequency). Networking datasets are hard to create due to cost and privacy, we rely on synthetic. Good ML models are black-box, with no observable logic. These combine to make ML models hard to analyze, hard to evaluate their quality. Network operators don't like that, and therefore they don't trust many black-box ML solutions.
 
-## Solution
+### Solution
 
 Thus, TRUSTEE, or TRUSt-oriented decision TreE Extraction comes into play. TRUSTEE was developed by Arthur Selle Jacobs and Roman Beltiukov (and others listed in the paper), and is a framework for training easily readable surrogate decision trees on black-box models. That way, we can find out about some of the decision-making process in the model without using extra data.
 
@@ -71,7 +71,7 @@ If the DT doesn't fit the NN at all, this framework isn't really applicable anym
 
 TRUSTEE trains surrogate DTs on black-boxes. DTs are easily readable, and we use them to analyze the black-box models. NNs are more complex than DTs, and DTs often underfit in complex tasks that require NNs. So if the DT fits the NN really well, it might mean we have a couple highly valued features involved that we should look at. Overall, TRUSTEE provides good insights into model decision making, but the features should be analyzed by a networking expert for final evaluation.
 
-## Conclusion
+### Conclusion
 
 TODO
 
