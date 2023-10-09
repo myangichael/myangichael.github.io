@@ -8,7 +8,7 @@ importance: 2
 
 I undertook a year-long (academic year) research project alongside Abel Atnafu, Luis Bravo, Aditi Phatak, and Emily Hu as part of the UCSB Early Research Scholars Program (ERSP). This research was a partnership with the UCSB Systems and Networking Lab, headed by Professor Arpit Gupta. Our research mentor was Roman Beltiukov, and the project we were working with was published by Arthur Selle Jacobs and Roman Beltiukov, titled [AI/ML for Network Security: The Emperor has no Clothes](https://sites.cs.ucsb.edu/~arpitgupta/pdfs/trustee.pdf)
 
-All of my technical work was done in Python, with heavy usage of `pandas` and `PyTorch` to load data and build/train my models. Also used a great deal of `sklearn` for tree-based models, and `matplotlib` for data visualization. We ended the project with a poster presentation at the UCSB CS department's undergraduate research fair. You can read some of my code (I don't have access to all of it) (here)[https://github.com/whugimy/mYangERSPSampleFile/tree/main] on GitHub.
+All of my technical work was done in Python, with heavy usage of `pandas` and `PyTorch` to load data and build/train my models. Also used a great deal of `sklearn` for tree-based models, and `matplotlib` for data visualization. We ended the project with a poster presentation at the UCSB CS department's undergraduate research fair. You can read one of my jupyter notebooks (I don't have access to all of it) [here](https://github.com/whugimy/mYangERSPSampleFile/tree/main) on GitHub. The full output for each notebook cell is shown, so there are sections where you may need to scroll a lot.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
