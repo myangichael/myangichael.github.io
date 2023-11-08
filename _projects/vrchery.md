@@ -8,7 +8,7 @@ importance: 3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/vrchery/vrchery_prof.jpeg" title="sample screenshot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/vrchery/vrchery_gif.gif" title="sample screenshot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
