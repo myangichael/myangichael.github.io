@@ -10,15 +10,17 @@ I am currently working on neuroscience and computer science research related to 
 
 # Why I, as a computer science student, am doing work related to fruit flies
 
+In many ways, the brain is a computer—and fruit fly brains are small and yet highly interesting.
+
 Fruit flies are extremely small!
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0 center" style="text-align: center;">
+    <div class="col-sm mt-3 mt-md-0 center" style="text-align: center; width:200px;">
         {% include figure.html path="assets/img/projects/drosophila/drosophila_size.jpeg" title="Fruit Fly Compared to Needle" class="img-fluid rounded z-depth-1 center" %}
     </div>
 </div>
 
-By extension, so are their brains! And yet, fruit flies exhibit qualities that we're highly interested in. One of these qualities is spatial awareness. If you close your eyes, do you know where the door is? Do you remember the path you took from the door to where you're sitting (or staning) right now? 
+By extension, so are their brains! And yet, fruit flies exhibit qualities that we're highly interested in. One of these qualities is spatial awareness. If you close your eyes, do you know where the door is? Do you remember the path you took from the door to where you're sitting (or standing) right now? 
 
 Even though your eyes are closed, you still know all of these things. More specifically, just by looking around as you walked into the room, you saw and subconsciously noted:
 
