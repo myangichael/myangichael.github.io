@@ -7,8 +7,8 @@ importance: 3
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0 center">
-        {% include figure.html path="assets/img/projects/vrchery/vrchery_gif.gif" title="sample screenshot" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 center" style="text-align: center;">
+        {% include figure.html path="assets/img/projects/vrchery/vrchery_gif.gif" title="sample screenshot" class="img-fluid rounded z-depth-1 center" %}
     </div>
 </div>
 
