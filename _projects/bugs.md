@@ -15,8 +15,8 @@ In many ways, the brain is a computer—and fruit fly brains are small and yet h
 Fruit flies are extremely small!
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/drosophila/drosophila_size.jpeg" title="Fruit Fly Compared to Needle" class="img-fluid rounded z-depth-1 center" width=200%}
+    <div class="col-sm mt-3 mt-md-0 center" style="text-align: center;">
+        {% include figure.html path="assets/img/projects/drosophila/drosophila_size.jpeg" title="Fruit Fly Compared to Needle" class="img-fluid rounded z-depth-1 center" width=300%}
     </div>
 </div>
 
